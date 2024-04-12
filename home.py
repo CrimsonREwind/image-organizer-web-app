@@ -21,7 +21,7 @@ def home():
         1. Clone the repository:
 
         ```bash
-        git clone https://github.com/your-username/image-organizer-web-app.git
+        git clone https://github.com/CrimsonREwind/image-organizer-web-app.git
         cd image-organizer-web-app
         ```
 
