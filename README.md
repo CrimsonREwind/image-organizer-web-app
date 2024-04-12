@@ -43,6 +43,14 @@ Visit `http://localhost:8501` in your browser to access the web app.
 
 ## Screenshots
 
+![Screenshot from 2024-04-13 02-38-35](https://github.com/CrimsonREwind/image-organizer-web-app/assets/106526797/f2719395-ba9c-43eb-b332-04b791ddf7e5)
+
+![Screenshot from 2024-04-13 02-38-53](https://github.com/CrimsonREwind/image-organizer-web-app/assets/106526797/b9621b33-5236-4349-8e8c-3e0828a65809)
+
+![Screenshot from 2024-04-13 02-39-50](https://github.com/CrimsonREwind/image-organizer-web-app/assets/106526797/0c383eed-5c27-43a5-8400-1a0d2ced6e38)
+
+![Screenshot from 2024-04-13 02-39-59](https://github.com/CrimsonREwind/image-organizer-web-app/assets/106526797/8d824307-fc43-49f8-9701-78d64db2b13c)
+
 
 
 ## Contributing
