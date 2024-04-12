@@ -41,6 +41,10 @@ Visit `http://localhost:8501` in your browser to access the web app.
 - You can use add page to add images to be organized under registered face
 - You can use show page to see organized images
 
+## Screenshots
+
+
+
 ## Contributing
 
 Feel free to contribute to the project! If you find bugs, have feature requests, or want to improve the code, follow these steps:
