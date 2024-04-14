@@ -18,7 +18,9 @@ def register():
     if picture:
         form = st.form("Register")
         name = form.text_input("Username")
-        dob = form.date_input("DOB")
+        min_date = datetime.datetime(1900, 1, 1)
+        max_date = datetime.datetime.today()
+        dob = form.date_input("DOB", min_value=min_date, max_value=max_date)
         city = form.text_input("City")
         submit = form.form_submit_button("submit")
         if submit:
